@@ -26,35 +26,30 @@
 		<td>1</td>
 		<td class="nama_mhs">Rizal</td>
 		<td>Alamat</td>
-		<td class="hapus"id="hapus_1">Hapus</td>
 	</tr>
 
 	<tr>
 		<td>2</td>
 		<td class="nama_mhs">johana</td>
 		<td>Alamat</td>
-		<td class="hapus"id="hapus_2">Hapus</td>
 	</tr>
 
 	<tr>
 		<td>3</td>
 		<td class="nama_mhs">Riziq</td>
 		<td>Alamat</td>
-		<td class="hapus"id="hapus_3">Hapus</td>
 	</tr>
 
 	<tr>
 		<td>4</td>
 		<td class="nama_mhs">Mail</td>
 		<td>Alamat</td>
-		<td class="hapus"id="hapus_4">Hapus</td>
 	</tr>
 
 	<tr>
 		<td>5</td>
 		<td class="nama_mhs">Imam</td>
 		<td>Alamat</td>
-		<td class="hapus"id="hapus_5">Hapus</td>
 	</tr>
 
 
